@@ -4,12 +4,11 @@ I am a highly motivated and enthusiastic student majoring in computer science, c
 
 The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https://github.com/MY-Voice-Canada/my_voice_app.git).
 
-## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-alam/)
-
 [![Rayan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only)
 [![Rayan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only)
 
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-alam/)
 <!---
 Rayan-Alam-UOIT/Rayan-Alam-UOIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

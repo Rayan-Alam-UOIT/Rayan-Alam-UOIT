@@ -33,7 +33,7 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="mailto:alamrayan103@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon_%282013-2020%29.png" alt="Email" width="50" height="50"/>
   </a>
 </p>
 

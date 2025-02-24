@@ -28,8 +28,14 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
 </p>
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-alam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamrayan103@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/rayan-alam/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:alamrayan103@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="50" height="50"/>
+  </a>
+</p>
 
 [![Rayan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only)
 [![Rayan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only)

@@ -16,6 +16,7 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/AssemblyScript_Logo.svg" alt="x86-64 Assembly" width="50" height="50"/>
 </p>
+
 ### Tools & Frameworks  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>

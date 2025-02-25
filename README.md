@@ -32,8 +32,9 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
   <a href="https://www.linkedin.com/in/rayan-alam/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a> href = "malito:alamrayan103@gmail.com"
+  <a href = "malito:alamrayan103@gmail.com"
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)" alt="Gmail" width="50" height="50"/>
+  </a>
 </p>
 
 [![Rayan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only)

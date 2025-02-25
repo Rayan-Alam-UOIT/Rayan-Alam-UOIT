@@ -13,7 +13,7 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembly" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembly" width="55" height="55"/>
 </p>
 
 ### Tools & Frameworks  
@@ -27,7 +27,7 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" alt="Git" width="50" height="50"/>
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/4bLlCtre5ZjuHhwa0srgkE/1f77980a0f918ef32447950db3542dc6/overleaf-o-logo-white.jpg" alt="Git" width="50" height="50"/>
 </p>
 
 ## 📫 Connect with me:

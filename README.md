@@ -5,7 +5,7 @@ I am a highly motivated and enthusiastic student majoring in computer science an
 The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https://github.com/MY-Voice-Canada/my_voice_app.git).
 
 ## 🛠 Skills  
-### Programming Languages  
+### Programming Languages:  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
@@ -16,7 +16,7 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
   <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembly" width="55" height="55"/>
 </p>
 
-### Tools & Frameworks  
+### Tools & Frameworks:  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
@@ -30,7 +30,7 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
   <img src="https://images.ctfassets.net/nrgyaltdicpt/4bLlCtre5ZjuHhwa0srgkE/1f77980a0f918ef32447950db3542dc6/overleaf-o-logo-white.jpg" alt="Git" width="50" height="50"/>
 </p>
 
-## 📫 Connect with me:
+## 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/rayan-alam/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>

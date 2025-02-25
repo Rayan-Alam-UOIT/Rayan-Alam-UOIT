@@ -27,7 +27,8 @@ The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://images.ctfassets.net/nrgyaltdicpt/4bLlCtre5ZjuHhwa0srgkE/1f77980a0f918ef32447950db3542dc6/overleaf-o-logo-white.jpg" alt="Git" width="50" height="50"/>
+   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux" width="50" height="50"/>
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/4bLlCtre5ZjuHhwa0srgkE/1f77980a0f918ef32447950db3542dc6/overleaf-o-logo-white.jpg" alt="Overleaf" width="50" height="50"/>
 </p>
 
 ## 📫 Connect with me

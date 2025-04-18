@@ -2,7 +2,7 @@
 
 I am a highly motivated and enthusiastic student majoring in computer science and am currently in my second year at Ontario Tech University. I have an established track record in user-interface design and front-end development of mobile applications, namely the Android version of a mobile app for the MY Voice Canada organization, which was created using platforms such as Figma, Miro, Android Studio, and Flutter SDK in Dart. Throughout my academic career, I have acquired skills in various additional programming languages, such as C/C++, Python, x86-64 Assembly, SQL, Java, and LaTeX. I work throughout the week as a car washer for Avis Budget Group while concurrently studying at Ontario Tech. I like to push myself beyond my comfort zone, so I volunteered to become a summer camp counsellor at a local church and actively participated in school activities and clubs. This has dramatically improved my interpersonal abilities and made me a more effective team member, emphasizing helping others. I am actively pursuing a co-op position for the summer of 2025 term, where I can leverage my professional expertise to contribute to groundbreaking discoveries and drive technical innovation in every task I undertake.
 
-The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https://github.com/MY-Voice-Canada/my_voice_app.git). ⬅️
+The MY Voice Canada GitHub repository can be found here: [MY Voice Canada](https://github.com/MY-Voice-Canada/my_voice_app.git) ⬅️
 
 ## 🛠 Skills  
 ### Programming Languages:  

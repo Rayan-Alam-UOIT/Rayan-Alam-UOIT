@@ -33,6 +33,7 @@ I am a highly motivated and enthusiastic student majoring in computer science an
   <img src="https://images.ctfassets.net/nrgyaltdicpt/4bLlCtre5ZjuHhwa0srgkE/1f77980a0f918ef32447950db3542dc6/overleaf-o-logo-white.jpg" alt="Overleaf" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
   <img src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Office_2019.svg/revision/latest?cb=20210428043331" alt="Microsoft Office" width="150" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Apache Maven" width="50" height="50"/>
 </p>
 
 ## 📫 Connect with me

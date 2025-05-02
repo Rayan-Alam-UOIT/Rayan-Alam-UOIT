@@ -13,6 +13,9 @@ I am a highly motivated and enthusiastic student majoring in computer science an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembly" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/LaTeX_cover.svg" alt="LaTeX" width="60" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </p>
 
 ### Tools & Frameworks:  
@@ -26,8 +29,10 @@ I am a highly motivated and enthusiastic student majoring in computer science an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux" width="50" height="50"/>
   <img src="https://images.ctfassets.net/nrgyaltdicpt/4bLlCtre5ZjuHhwa0srgkE/1f77980a0f918ef32447950db3542dc6/overleaf-o-logo-white.jpg" alt="Overleaf" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" alt="Microsoft Office" width="50" height="50"/>
 </p>
 
 ## 📫 Connect with me

@@ -15,7 +15,7 @@ I am a highly motivated and enthusiastic student majoring in computer science an
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/LaTeX_cover.svg" alt="LaTeX" width="60" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://blog.savoirfairelinux.com/en-ca/wp-content/uploads/sites/2/2017/12/javascript.png" alt="JavaScript" width="75" height="50"/>
+  <img src="https://miro.medium.com/v2/resize:fit:344/1*tZHcs0d7MAG-BBcjBekZYA.png" alt="JavaScript" width="50" height="50"/>
 </p>
 
 ### Tools & Frameworks:  

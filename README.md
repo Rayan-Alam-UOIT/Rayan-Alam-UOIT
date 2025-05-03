@@ -32,7 +32,7 @@ I am a highly motivated and enthusiastic student majoring in computer science an
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux" width="50" height="50"/>
   <img src="https://images.ctfassets.net/nrgyaltdicpt/4bLlCtre5ZjuHhwa0srgkE/1f77980a0f918ef32447950db3542dc6/overleaf-o-logo-white.jpg" alt="Overleaf" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
-  <img src="https://images.seeklogo.com/logo-png/40/1/microsoft-office-logo-png_seeklogo-406239.png?v=1955330080920860976" alt="Microsoft Office" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000" alt="Microsoft Office" width="50" height="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Apache Maven" width="50" height="50"/>
 </p>
 

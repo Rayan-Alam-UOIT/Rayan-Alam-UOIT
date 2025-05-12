@@ -34,7 +34,7 @@ I am a highly motivated and enthusiastic student majoring in computer science an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000" alt="Microsoft Office" width="50" height="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Apache Maven" width="50" height="50"/>
-  <img src="https://static-00.iconduck.com/assets.00/file-type-sas-icon-512x512-s64aggsh.png" alt="SAS" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=17949&format=png&color=000000" alt="Google Workspace" width="50" height="50"/>
 </p>
 
 ## 📫 Connect with me

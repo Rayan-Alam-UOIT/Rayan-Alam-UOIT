@@ -53,7 +53,7 @@ I am actively pursuing a co-op position for the summer or fall 2025 term, where 
   <a href = "mailto:alamrayan103@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)" alt="Gmail" width="50" height="50"/>
   </a>
-  <a href="https://rayan-alam.github.io" target="_blank">
+  <a href="https://rayan-alam-uoit.github.io/" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website" width="50" height="50"/>
   </a>
 </p>

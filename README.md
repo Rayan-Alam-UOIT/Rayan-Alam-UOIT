@@ -1,4 +1,4 @@
-# Hey there, I'm Rayan 👋
+<h1 align="left"><code>Hey there, I'm Rayan 👋</code></h1>
 
 I am a highly motivated and enthusiastic student majoring in Computer Science with a concentration in Data Science and a minor in Mathematics. I have just completed my second year at Ontario Tech University with a 4.10/4.30 cGPA. I have an established track record in user-interface design and mobile application development, namely the Android version of a mobile app for the MY Voice Canada organization, which was created using Android Studio, Flutter SDK, and the programming language Dart.
 
@@ -7,6 +7,7 @@ In addition to team projects, I have also designed and developed my own personal
 I work throughout the week as a car washer for Avis Budget Group while concurrently studying at Ontario Tech. I like to push myself beyond my comfort zone, so I volunteered to become a summer camp counsellor at a local church and actively participated in university activities and clubs. This has dramatically improved my interpersonal abilities and made me a more effective team member, emphasizing helping others.
 
 I am actively pursuing a co-op position for the summer or fall 2025 term, where I can leverage my professional expertise to contribute to groundbreaking discoveries and drive technical innovation in every task I undertake.
+
 ## 🛠 Skills  
 ### Programming Languages:  
 <p align="left">
@@ -43,6 +44,7 @@ I am actively pursuing a co-op position for the summer or fall 2025 term, where 
   <img src="https://img.icons8.com/?size=100&id=17949&format=png&color=000000" alt="Google Workspace" width="50" height="50"/>
 </p>
 
+
 ## 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/rayan-alam/">
@@ -50,6 +52,9 @@ I am actively pursuing a co-op position for the summer or fall 2025 term, where 
   </a>
   <a href = "mailto:alamrayan103@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)" alt="Gmail" width="50" height="50"/>
+  </a>
+  <a href="https://rayan-alam.github.io" target="_blank">
+    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website" width="50" height="50"/>
   </a>
 </p>
 

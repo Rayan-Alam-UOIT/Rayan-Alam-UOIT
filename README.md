@@ -55,6 +55,16 @@ I am actively pursuing a co-op position for the summer or fall 2025 term, where 
 ## 📊 My GitHub Metrics
 
 <p float="left" style="display: flex; gap: 25px;">
+   <!-- Top Languages: Dark Mode -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=dark" height="200px" style="object-fit: contain;" />
+  </a>
+
+  <!-- Top Languages: Light Mode -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=default" height="200px" style="object-fit: contain;" />
+  </a>
+  
   <!-- GitHub Stats: Dark Mode -->
   <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=dark" height="200px" style="object-fit: contain;" />
@@ -63,16 +73,6 @@ I am actively pursuing a co-op position for the summer or fall 2025 term, where 
   <!-- GitHub Stats: Light Mode -->
   <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=default" height="200px" style="object-fit: contain;" />
-  </a>
-
-  <!-- Top Languages: Dark Mode -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=dark" height="200px" style="object-fit: contain;" />
-  </a>
-
-  <!-- Top Languages: Light Mode -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=default" height="200px" style="object-fit: contain;" />
   </a>
 </p>
 

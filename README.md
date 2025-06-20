@@ -54,17 +54,18 @@ I am actively pursuing a co-op position for the summer or fall 2025 term, where 
 
 ## 📊 My GitHub Metrics
 
-<p float="left">
-  <a href="https://git.io/streak-stats" style="margin-right: 10px;">
-    <img src="https://streak-stats.demolab.com?user=Rayan-Alam-UOIT&theme=dark" height="200px" style="object-fit: contain;" />
-  </a>
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" style="margin-right: 10px;">
+<p float="left" style="display: flex; gap: 20px;">
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=dark" height="200px" style="object-fit: contain;" />
   </a>
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only">
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=default" height="200px" style="object-fit: contain;" />
   </a>
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com?user=Rayan-Alam-UOIT&theme=dark" height="200px" style="object-fit: contain;" />
+  </a>
 </p>
+
 
 
 <!---

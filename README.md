@@ -56,15 +56,16 @@ I am actively pursuing a co-op position for the summer or fall 2025 term, where 
 
 <p float="left">
   <a href="https://git.io/streak-stats" style="margin-right: 10px;">
-    <img src="https://streak-stats.demolab.com?user=Rayan-Alam-UOIT&theme=dark" height="200px" />
+    <img src="https://streak-stats.demolab.com?user=Rayan-Alam-UOIT&theme=dark" height="200px" width="400px" />
   </a>
   <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=dark" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=dark" height="200px" width="400px" />
   </a>
   <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=default" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Alam-UOIT&show_icons=true&theme=default" height="200px" width="400px" />
   </a>
 </p>
+
 <!---
 Rayan-Alam-UOIT/Rayan-Alam-UOIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

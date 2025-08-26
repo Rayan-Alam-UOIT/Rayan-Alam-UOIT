@@ -1,12 +1,10 @@
 <h1 align="left"><code>Hey there, I'm Rayan 👋</code></h1>
 
-I am a highly motivated and enthusiastic student majoring in Computer Science with a concentration in Data Science and a minor in Mathematics. I recently completed my second year at Ontario Tech University with a 4.10/4.30 cGPA. I have an established track record in user-interface design and mobile application development, namely the Android version of a mobile app for the MY Voice Canada organization, which was created using Android Studio, Flutter SDK, and the programming language Dart.
+I’m a highly motivated and enthusiastic Computer Science student at Ontario Tech University, specializing in Data Science with a minor in Mathematics, and currently maintaining a 4.10/4.30 cGPA. I have hands-on experience in UI/UX design, mobile app development, and web development, including building an Android app for MY Voice Canada using Flutter/Dart and creating a personal portfolio website with HTML, CSS, and JavaScript.
 
-In addition to team projects, I have also designed and developed my own personal website using HTML5, CSS3, and JavaScript, showcasing my skills in web development and user-experience design. Throughout my academic career, I have acquired skills in various additional programming languages, such as C/C++, Python, SQL, Java, R, x86-64 Assembly and LaTeX. Furthermore, I enjoy acquiring new skills and concepts that are relevant to my field, and I consistently pursue certifications to demonstrate my commitment to continuous learning and professional growth.
+In addition to these major projects, I’ve developed proficiency in C/C++, Python, SQL, Java, R, x86-64 Assembly, and LaTeX, applying these skills to both coursework and personal projects. I’m dedicated to continuous learning and regularly pursue new certifications and challenges to expand my technical expertise. My volunteer and leadership experiences have also strengthened my teamwork, communication, and problem-solving skills.
 
-I work throughout the week as a car washer for Avis Budget Group while concurrently studying at Ontario Tech. I like to push myself beyond my comfort zone, so I volunteered to become a summer camp counsellor at a local church and actively participated in university activities and clubs. This has dramatically improved my interpersonal abilities and made me a more effective team member, emphasizing helping others.
-
-I am actively pursuing a co-op position for the fall 2025 or winter 2026 term, where I can leverage my professional expertise to contribute to groundbreaking discoveries and drive technical innovation in every task I undertake.
+This fall, I’m excited to join Bravella Health as a Data Science & AI Intern through my school's co-op program, where I look forward to gaining new skills, contributing to meaningful projects alongside peers, and growing both technically and professionally.
 
 <details markdown="1">
   <summary><h2>📦 My Toolbox (Click to expand)</h2></summary>

@@ -1,10 +1,10 @@
 <h1 align="left"><code>Hey there, I'm Rayan 👋</code></h1>
 
-I’m a highly motivated and enthusiastic Computer Science student at Ontario Tech University, specializing in Data Science with a minor in Mathematics, and currently maintaining a 4.10/4.30 cGPA. I have hands-on experience in UI/UX design, mobile app development, and web development, including building an Android app for MY Voice Canada using Flutter/Dart and creating a personal portfolio website with HTML, CSS, and JavaScript.
+I’m a highly motivated and enthusiastic Computer Science student at Ontario Tech University, specializing in Data Science with a minor in Mathematics, and currently maintaining a 4.10/4.30 cGPA. I have hands-on experience in UI/UX design, mobile app development, and web development. As part of a team at MY Voice Canada, I helped develop an Android app using Flutter, Dart, and Figma, which received highly positive feedback. In addition, I independently designed and built my personal portfolio website using HTML, CSS, and JavaScript, creating a dynamic and user-friendly experience.
 
-In addition to these major projects, I’ve developed proficiency in C/C++, Python, SQL, Java, R, x86-64 Assembly, and LaTeX, applying these skills to both coursework and personal projects. I’m dedicated to continuous learning and regularly pursue new certifications and challenges to expand my technical expertise. My volunteer and leadership experiences have also strengthened my teamwork, communication, and problem-solving skills.
+I have developed strong proficiency in C/C++, Python, SQL, R, and Java, applying these skills across both coursework and personal projects. Committed to continuous learning, I actively pursue certifications and challenges to deepen my expertise, particularly in cloud computing and machine learning. Beyond academics, my volunteer and leadership experiences in summer camps and school clubs have further strengthened my teamwork, communication, and problem-solving abilities.
 
-This fall, I’m excited to join Bravella Health as a Data Science & AI Intern through my school's co-op program, where I look forward to gaining new skills, contributing to meaningful projects alongside peers, and growing both technically and professionally.
+This fall, I am excited to be joining Bravella Health as a Data Science & AI Intern for a four-month term. In this role, I look forward to contributing to the enhancement of their LLM built with TypeScript and Python, exploring cloud-scalable solutions with AWS, and collaborating with peers on impactful projects—all while continuing to grow both technically and professionally.
 
 <details markdown="1">
   <summary><h2>📦 My Toolbox (Click to expand)</h2></summary>

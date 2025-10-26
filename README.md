@@ -10,8 +10,8 @@ In fall 2025, I am excited to be joining Bravella Health as a Data Science & AI 
   <summary><h2>📦 My Toolbox (Click to expand)</h2></summary>
 
   - **Languages**: Python, Java, Dart, JavaScript, C/C++, SQL, R, HTML5, CSS3, Assembly, LaTeX  
-  - **Frameworks**: React.js, Express.js, Node.js, Redux.js, Flutter, Django, Flask, Bootstrap, Tailwind, Dash, JUnit, Pytest, REST APIs 
-  - **Tools**: Git, MS Azure, Kubernetes, Docker, VS Code, IntelliJ, Anaconda, Jupyter, RStudio, Android Studio, Linux, Unix, Windows
+  - **Frameworks**: Angular, React.js, Express.js, Node.js, Redux.js, Flutter, Django, Flask, Bootstrap, Tailwind, Dash, JUnit, Pytest, REST APIs 
+  - **Tools**: AWS, Git, Kubernetes, Docker, VS Code, IntelliJ, Anaconda, Jupyter, RStudio, Android Studio, Linux, Unix, Windows
   - **Libraries**: Scikit‑learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SQLite, Java Swing
   - **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB
 </details>

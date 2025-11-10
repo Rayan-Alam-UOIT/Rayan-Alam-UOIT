@@ -4,7 +4,7 @@ I’m a highly motivated and enthusiastic Computer Science student at Ontario Te
 
 Moreover, I have strong proficiency in C/C++, Python, R, SQL, and Java, all of which form the foundation for quickly adapting to new frameworks, tools, and libraries. Committed to continuous learning, I actively pursue certifications and challenges to deepen my expertise, particularly in full-stack frameworks and machine learning. Beyond academics, my volunteer and leadership experiences in summer camps, school clubs, and hackathons have further strengthened my teamwork, communication, and problem-solving abilities.
 
-In fall 2025, I am excited to be joining Bravella Health as a Data Science & AI Development Intern for a four-month term. In this role, I look forward to contributing to the advancement of their clinical-based LLM, designing and exploring cloud-scalable solutions, and collaborating with peers on impactful projects—all while continuing to grow both technically and professionally.
+In the fall of 2025, I am excited to join Bravella Health as a Data Science & AI Development Intern for a four-month term. In this role, I look forward to contributing to the advancement of their clinical-based LLM, designing and exploring cloud-scalable deployment solutions, and collaborating with peers on impactful projects—all while continuing to grow both technically and professionally.
 
 <details markdown="1">
   <summary><h2>📦 My Toolbox (Click to expand)</h2></summary>

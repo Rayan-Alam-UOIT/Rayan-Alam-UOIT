@@ -52,39 +52,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 
 ## 📊 My GitHub Metrics
 
-<!-- GitHub Metrics -->
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 25px;">
-
-  <!-- Top Languages (Dark) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=dark"
-         style="height: 200px; width: auto; object-fit: contain;" />
-  </a>
-
-  <!-- Top Languages (Light) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=default"
-         style="height: 200px; width: auto; object-fit: contain;" />
-  </a>
-
-</div>
-
-<!-- Trophies -->
-<div align="center" style="margin: 20px 0;">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Rayan-Alam-UOIT&theme=algolia&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</div>
-
-<!-- Activity Graph -->
-<div align="center" style="margin-top: 25px;">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true#gh-dark-mode-only"
-    width="100%"
-    alt="Activity Graph Dark"
-  />
-</div>
+<p float="left" style="display: flex; gap: 25px; align-items: center;"> <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=dark" style="height: 200px; width: auto; object-fit: contain;" /> </a> <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=default" style="height: 200px; width: auto; object-fit: contain;" /> </a>  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true#gh-dark-mode-only" width="100%" alt="Activity Graph Dark" /> </div>
 
 
 <!---

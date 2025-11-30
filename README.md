@@ -52,8 +52,55 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 
 ## 📊 My GitHub Metrics
 
-<p float="left" style="display: flex; gap: 25px; align-items: center;"> <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=dark" style="height: 200px; width: auto; object-fit: contain;" /> </a> <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=default" style="height: 200px; width: auto; object-fit: contain;" /> </a>  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true#gh-dark-mode-only" width="100%" alt="Activity Graph Dark" /> </div>
+<!-- Metrics Cards Row -->
+<div style="display: flex; gap: 25px; align-items: center; justify-content: center; flex-wrap: wrap;">
 
+  <!-- Top Languages (Dark) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=dark"
+      style="height: 200px; width: auto; object-fit: contain;"
+      alt="Top Languages Dark"
+    />
+  </a>
+
+  <!-- Top Languages (Light) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=default"
+      style="height: 200px; width: auto; object-fit: contain;"
+      alt="Top Languages Light"
+    />
+  </a>
+
+  <!-- Stats Card (Dark) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
+    <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=github_dark"
+  style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
+  alt="Stats Card Dark"
+/>
+  </a>
+
+  <!-- Stats Card (Light) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=default"
+      style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
+      alt="Stats Card Light"
+    />
+  </a>
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center" style="margin-top: 30px;">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true#gh-dark-mode-only"
+    width="100%"
+    alt="Activity Graph Dark"
+  />
+</div>
 
 <!---
 Rayan-Alam-UOIT/Rayan-Alam-UOIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

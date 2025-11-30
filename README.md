@@ -69,14 +69,18 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 </table>
 
 
-<!-- Activity Graph -->
-<div align="center" style="margin-top: 30px;">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true#gh-dark-mode-only"
-    width="100%"
-    alt="Activity Graph Dark"
-  />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true"
+        width="100%"
+        alt="Activity Graph"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <!---
 Rayan-Alam-UOIT/Rayan-Alam-UOIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

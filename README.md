@@ -58,7 +58,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
   <!-- Top Languages (Dark) -->
   <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=github_dark"
       style="height: 200px; width: auto; object-fit: contain;"
       alt="Top Languages Dark"
     />
@@ -67,7 +67,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
   <!-- Top Languages (Light) -->
   <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Alam-UOIT&layout=compact&theme=default"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=default"
       style="height: 200px; width: auto; object-fit: contain;"
       alt="Top Languages Light"
     />
@@ -86,6 +86,42 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
   <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=default"
+      style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
+      alt="Stats Card Light"
+    />
+  </a>
+
+   <!-- Stats Card (Dark) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
+    <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=github_dark&utcOffset=-5"
+  style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
+  alt="Stats Card Dark"
+/>
+  </a>
+
+  <!-- Stats Card (Light) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=default&utcOffset=-5"
+      style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
+      alt="Stats Card Light"
+    />
+  </a>
+
+   <!-- Stats Card (Dark) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
+    <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=github_dark"
+  style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
+  alt="Stats Card Dark"
+/>
+  </a>
+
+  <!-- Stats Card (Light) -->
+  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=default"
       style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
       alt="Stats Card Light"
     />

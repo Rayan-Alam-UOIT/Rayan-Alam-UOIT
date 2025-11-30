@@ -18,116 +18,56 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 
 ## 📫 Connect with me
 
-<div align="left" style="display: flex; gap: 20px; align-items: center;">
-
-  <a href="https://www.linkedin.com/in/rayan-alam/" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="LinkedIn"
-      width="60" height="60"
-      style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-    />
-  </a>
-
-  <a href="mailto:alamrayan103@gmail.com" target="_blank" rel="noopener noreferrer" title="Send me an email">
-    <img
-      src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
-      alt="Gmail"
-      width="60" height="60"
-      style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-    />
-  </a>
-
-  <a href="https://rayan-alam-uoit.github.io/" target="_blank" rel="noopener noreferrer" title="Visit my portfolio">
-    <img
-      src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"
-      alt="Website"
-      width="60" height="60"
-      style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
-    />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rayan-alam/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:alamrayan103@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="60" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://rayan-alam-uoit.github.io/" target="_blank">
+        <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="60" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 My GitHub Metrics
 
-<!-- Metrics Cards Row -->
-<div style="display: flex; gap: 25px; align-items: center; justify-content: center; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=github_dark&utcOffset=-5" height="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Top Languages (Dark) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=github_dark"
-      style="height: 200px; width: auto; object-fit: contain;"
-      alt="Top Languages Dark"
-    />
-  </a>
-
-  <!-- Top Languages (Light) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=default"
-      style="height: 200px; width: auto; object-fit: contain;"
-      alt="Top Languages Light"
-    />
-  </a>
-
-  <!-- Stats Card (Dark) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
-    <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=github_dark"
-  style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
-  alt="Stats Card Dark"
-/>
-  </a>
-
-  <!-- Stats Card (Light) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=default"
-      style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
-      alt="Stats Card Light"
-    />
-  </a>
-
-   <!-- Stats Card (Dark) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
-    <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=github_dark&utcOffset=-5"
-  style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
-  alt="Stats Card Dark"
-/>
-  </a>
-
-  <!-- Stats Card (Light) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=default&utcOffset=-5"
-      style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
-      alt="Stats Card Light"
-    />
-  </a>
-
-   <!-- Stats Card (Dark) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-dark-mode-only" target="_blank">
-    <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=github_dark"
-  style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
-  alt="Stats Card Dark"
-/>
-  </a>
-
-  <!-- Stats Card (Light) -->
-  <a href="https://github.com/Rayan-Alam-UOIT/github-readme-stats#gh-light-mode-only" target="_blank">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=default"
-      style="height: 200px; width: auto; object-fit: contain; border: 3px solid white;"
-      alt="Stats Card Light"
-    />
-  </a>
-
-</div>
 
 <!-- Activity Graph -->
 <div align="center" style="margin-top: 30px;">

@@ -11,7 +11,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 
   - **Languages**: Python, JavaScript, C/C++, TypeScript, SQL, R, Java, HTML5, CSS3, Assembly, LaTeX  
   - **Frameworks**: Angular, React.js, Express.js, Node.js, Redux.js, Flutter, Django, Flask, Bootstrap, Tailwind, Dash, JUnit, Pytest, REST APIs 
-  - **Tools**: AWS, Git, Kubernetes, Docker, VS Code, IntelliJ, Anaconda, Jupyter, Android Studio, Linux, Unix, Windows, Nginx, Hugging Face
+  - **Tools**: AWS, Kubernetes, Docker, VS Code, IntelliJ, Anaconda, Jupyter, Android Studio, Linux/Unix, Windows, Nginx, Hugging Face
   - **Libraries**: Scikit‑learn, PyTorch, Pandas, NumPy, Unsloth, FAISS, Matplotlib, Seaborn, SQLite, Java Swing
   - **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB
 </details>

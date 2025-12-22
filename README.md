@@ -42,7 +42,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 </details>
 
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 </table>
 
 
-## 📊 My GitHub Metrics
+## 📊 GitHub Activity & Contribution Insights
 
 <table>
   <tr>

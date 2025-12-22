@@ -9,7 +9,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 <details markdown="1">
   <summary>
     <h2>🧰 My Full-Stack Toolbox</h2>
-    <p><em>Languages, frameworks, cloud & AI tools — click to explore</em></p>
+    <p><em>Languages, frameworks, cloud & AI tools — click to explore more</em></p>
   </summary>
    <hr/>
    

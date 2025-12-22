@@ -8,9 +8,11 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 
 <details markdown="1">
   <summary>
-    <h2>🧰 My Toolbox</h2>
+    <h2>🧰 My Full-Stack Toolbox</h2>
     <p><em>Languages, frameworks, cloud & AI tools — click to explore</em></p>
   </summary>
+   <hr/>
+   
 
 ### 💻 Languages
 `Python` `JavaScript` `TypeScript` `C/C++` `Java` `R` `SQL`  
@@ -24,9 +26,9 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 
 ### 🛠️ Tools
 `AWS` `Kubernetes` `Docker` `Nginx`  
-`Linux` `VS Code` `Android Studio`  
+`Linux/Unix` `VS Code`  `Android Studio`  
 `Jupyter` `Anaconda` `RStudio`  
-`Hugging Face` `REST APIs`
+`Hugging Face` `IntelliJ` `REST APIs`
 
 ### 📚 Libraries
 `Scikit-learn` `PyTorch` `Pandas` `NumPy`  
@@ -36,7 +38,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 
 ### 🛢️ Databases
 `MySQL` `PostgreSQL` `SQLite` `MongoDB` `MariaDB`
-
+ <hr/>
 </details>
 
 

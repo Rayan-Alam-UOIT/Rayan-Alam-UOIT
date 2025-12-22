@@ -7,14 +7,38 @@ Additionally, I have strong proficiency in C/C++, TypeScript, Python, R, SQL, an
 Since fall 2025, I have been working at Bravella Health as a Data Science & AI Development Intern on an eight-month term. In this role, I contribute to the development of their clinical LLM platform, built with Angular, Flask, and a RAG pipeline, while designing cloud-scalable deployment solutions on AWS and collaborating with my team on high-impact projects. This experience has allowed me to continue growing both technically and professionally.
 
 <details markdown="1">
-  <summary><h2>📦 My Toolbox (Click to expand)</h2></summary>
+  <summary>
+    <h2>🧰 My Toolbox</h2>
+    <p><em>Languages, frameworks, cloud & AI tools — click to explore</em></p>
+  </summary>
 
-  - **Languages**: Python, JavaScript, C/C++, TypeScript, SQL, R, Java, HTML5, CSS3, Assembly, LaTeX  
-  - **Frameworks**: Angular, React.js, Express.js, Node.js, Flutter, Django, Flask, Bootstrap, Tailwind, Dash, JUnit, Pytest 
-  - **Tools**: AWS, Kubernetes, Docker, VS Code, Anaconda, Jupyter, RStudio, Android Studio, Linux/Unix, Nginx, Hugging Face, REST APIs
-  - **Libraries**: Scikit‑learn, PyTorch, Pandas, NumPy, Unsloth, FAISS, Redux.js, Matplotlib, Seaborn, Java Swing, Plotly, PrimeNG
-  - **Databases**: MySQL, SQLite, PostgreSQL, MongoDB, MariaDB
+### 💻 Languages
+`Python` `JavaScript` `TypeScript` `C/C++` `Java` `R` `SQL`  
+`HTML5` `CSS3` `Assembly` `LaTeX`
+
+### ⚙️ Frameworks
+`Angular` `React.js` `Node.js` `Express.js`  
+`Flutter` `Django` `Flask`  
+`Bootstrap` `Tailwind` `Dash`  
+`JUnit` `Pytest`
+
+### 🛠️ Tools
+`AWS` `Kubernetes` `Docker` `Nginx`  
+`Linux` `VS Code` `Android Studio`  
+`Jupyter` `Anaconda` `RStudio`  
+`Hugging Face` `REST APIs`
+
+### 📚 Libraries
+`Scikit-learn` `PyTorch` `Pandas` `NumPy`  
+`FAISS` `Unsloth` `Redux.js`  
+`Matplotlib` `Seaborn` `Plotly`  
+`PrimeNG` `Java Swing`
+
+### 🛢️ Databases
+`MySQL` `PostgreSQL` `SQLite` `MongoDB` `MariaDB`
+
 </details>
+
 
 ## 📫 Connect with me
 

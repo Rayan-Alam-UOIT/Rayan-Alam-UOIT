@@ -45,10 +45,10 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 ### Libraries & Databases
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![Scikit](https://skillicons.dev/icons?i=scikitlearn)
+![Redux](https://skillicons.dev/icons?i=redux)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redux](https://skillicons.dev/icons?i=redux)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 > ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my portfolio

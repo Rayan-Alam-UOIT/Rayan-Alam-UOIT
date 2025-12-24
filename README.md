@@ -2,7 +2,7 @@
 
 I’m a highly motivated Computer Science student at Ontario Tech University, specializing in Data Science with a minor in Mathematics and maintaining a 4.10/4.30 cGPA. I have hands-on experience in UI/UX design, mobile app development, and web development. At MY Voice Canada, I helped develop an Android app using Flutter, Dart, and Figma, which received excellent user feedback and ultimately won our team an award. I also independently designed and built my own interactive portfolio website using HTML, CSS, and JavaScript.
 
-Additionally, I have strong proficiency in C/C++, TypeScript, Python, R, SQL, and Java, enabling me to quickly adapt to new frameworks and tools. I actively pursue certifications and challenges to deepen my skills, especially in full-stack development and applied AI. My volunteer and leadership roles in summer camps, school clubs, and sponsored hackathons have strengthened my teamwork, communication, and problem-solving abilities.
+Additionally, I possess strong proficiency in Python, C/C++, TypeScript, SQL, Java and R, enabling me to adapt to new frameworks and tools quickly. I actively pursue certifications and challenges to deepen my skills, especially in full-stack development and applied AI. My volunteer and leadership roles in summer camps, school clubs, and sponsored hackathons have strengthened my teamwork, communication, and problem-solving abilities.
 
 Since fall 2025, I have been working at Bravella Health as a Data Science & AI Development Intern on an eight-month term. In this role, I contribute to the development of their clinical LLM platform, built with Angular, Flask, and a RAG pipeline, while designing cloud-scalable deployment solutions on AWS and collaborating with my team on high-impact projects. This experience has allowed me to continue growing both technically and professionally.
 
@@ -59,6 +59,11 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
     <td align="center">
       <a href="https://rayan-alam-uoit.github.io/" target="_blank">
         <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="60" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:+16479197862" title="647-919-7862">
+        <img src="https://img.icons8.com/color/96/phone.png" width="60" />
       </a>
     </td>
   </tr>

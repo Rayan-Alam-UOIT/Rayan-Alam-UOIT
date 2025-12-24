@@ -61,11 +61,6 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
         <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="60" />
       </a>
     </td>
-    <td align="center">
-      <a href="tel:+16479197862" title="647-919-7862">
-        <img src="https://img.icons8.com/color/96/phone.png" width="60" />
-      </a>
-    </td>
   </tr>
 </table>
 

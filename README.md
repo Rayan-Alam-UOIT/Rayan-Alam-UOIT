@@ -6,43 +6,54 @@ Additionally, I possess strong proficiency in Python, C/C++, TypeScript, SQL, Ja
 
 Since fall 2025, I have been working at Bravella Health as a Data Science & AI Development Intern on an eight-month term. In this role, I contribute to the development of their clinical LLM platform, built with Angular, Flask, and a RAG pipeline, while designing cloud-scalable deployment solutions on AWS and collaborating with my team on high-impact projects. This experience has allowed me to continue growing both technically and professionally.
 
-<details markdown="1">
-  <summary>
-    <h2>🧰 My Full-Stack Toolbox</h2>
-    <p><em>Languages, frameworks, cloud & AI tools — click to explore more</em></p>
-  </summary>
-   <hr/>
-   
 
-### 💻 Languages
-`Python` `JavaScript` `TypeScript` `C/C++` `Java` `R` `SQL`  
-`HTML5` `CSS3` `Assembly` `LaTeX`
+## Tech Stack 🚀
 
-### ⚙️ Frameworks
-`Angular` `React.js` `Node.js` `Express.js`  
-`Flutter` `Django` `Flask`  
-`Bootstrap` `Tailwind` `Dash`  
-`JUnit` `Pytest`
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![R](https://skillicons.dev/icons?i=r)
+![Dart](https://skillicons.dev/icons?i=dart)
 
-### 🛠️ Tools
-`AWS` `Kubernetes` `Docker` `Nginx`  
-`Linux/Unix` `VS Code`  `Android Studio`  
-`Jupyter` `Anaconda` `RStudio`  
-`Hugging Face` `IntelliJ` `REST APIs`
+### Frameworks
+![Angular](https://skillicons.dev/icons?i=angular)
+![React](https://skillicons.dev/icons?i=react)
+![Node](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### 📚 Libraries
-`Scikit-learn` `PyTorch` `Pandas` `NumPy`  
-`FAISS` `Unsloth` `Redux.js`  
-`Matplotlib` `Seaborn` `Plotly`  
-`PrimeNG` `Java Swing`
+### Tools & Platforms
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+![Anaconda](https://skillicons.dev/icons?i=anaconda)
+![Git](https://skillicons.dev/icons?i=git)
 
-### 🛢️ Databases
-`MySQL` `PostgreSQL` `SQLite` `MongoDB` `MariaDB`
- <hr/>
-</details>
+### Libraries & Databases
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Scikit](https://skillicons.dev/icons?i=scikitlearn)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redux](https://skillicons.dev/icons?i=redux)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 
+> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my portfolio
 
-## 📫 Connect With Me
+## Connect With Me 📫
 
 <table>
   <tr>
@@ -65,7 +76,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 </table>
 
 
-## 📊 GitHub Activity & Contribution Insights
+## GitHub Activity & Contribution Insights 📊
 
 <table>
   <tr>

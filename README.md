@@ -7,7 +7,7 @@ Additionally, I possess strong proficiency in Python, C/C++, TypeScript, Java, S
 Since fall 2025, I have been working at Bravella Health as a Data Science & AI Development Intern on an eight-month term. In this role, I contribute to the development of their clinical LLM platform, built with Angular, Flask, and a RAG pipeline, while designing cloud-scalable deployment solutions on AWS and collaborating with my team on high-impact projects. This experience has allowed me to continue growing both technically and professionally.
 
 
-## 🚀 Tech Stack 
+## 🚀 Featured Tech Stack 
 
 ### Languages
 ![Python](https://skillicons.dev/icons?i=python)

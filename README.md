@@ -2,8 +2,8 @@
 
 ## 👤 About Me
 
-- Honours Computer Science Student @ Ontario Tech University
-- Data Science & AI Development Intern @ Bravella Health
+- Honours Computer Science Student @ Ontario Tech University (Sep 2023-Present)
+- Data Science & AI Development Intern @ Bravella Health (Sep 2025–Present)
 - Mobile Development: Built and shipped an award-winning Android app at MY Voice Canada 
 - Web Development: Designed and developed responsive websites, including a portfolio and various other web projects
 - Exhibiting volunteer and leadership experience through summer camps, school clubs, and sponsored hackathons

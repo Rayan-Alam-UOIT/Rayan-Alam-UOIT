@@ -1,13 +1,13 @@
-<h1 align="left"><code>👋 Hey there, I'm Rayan</code></h1>
+<h1 align="left"><code>👋 Hey there, I'm Rayan!</code></h1>
 
-## 🙋‍♂️ About Me
+## 👤 About Me
 
-- 🎓 Computer Science Student @ Ontario Tech University
-- 🤖 Data Science & AI Development Intern @ Bravella Health
-- 📱 Mobile Development: Built and shipped an award-winning Android app at MY Voice Canada 
-- 🌐 Web Development: Designed and developed a responsive portfolio and various other web projects
-- 🤝 Volunteer and leadership experience through summer camps, school clubs, and hackathons 
-- 📚 Continuously building my skill set through certifications in full-stack development, applied AI and languages
+- Honours Computer Science Student @ Ontario Tech University
+- Data Science & AI Development Intern @ Bravella Health
+- Mobile Development: Built and shipped an award-winning Android app at MY Voice Canada 
+- Web Development: Designed and developed responsive websites, including a portfolio and various other web projects
+- Exhibiting volunteer and leadership experience through summer camps, school clubs, and sponsored hackathons
+- Continuously building my skill set through official certifications in full-stack development, applied AI and languages
 
 
 ## 🚀 Featured Tech Stack 

@@ -1,10 +1,13 @@
 <h1 align="left"><code>👋 Hey there, I'm Rayan</code></h1>
 
-I’m a highly motivated Computer Science student at Ontario Tech University, specializing in Data Science with a minor in Mathematics and maintaining a 4.10/4.30 cGPA. I have hands-on experience in UI/UX design, mobile app development, and web development. At MY Voice Canada, I helped develop an Android app using Flutter, Dart, and Android Studio, which received excellent user feedback and ultimately won our team an award. I also independently designed and built my own interactive portfolio website using HTML, CSS, and JavaScript.
+## 🙋‍♂️ About Me
 
-Additionally, I possess strong proficiency in Python, C/C++, TypeScript, Java, SQL and R, enabling me to adapt to new frameworks and tools quickly. I actively pursue certifications and challenges to deepen my skills, especially in full-stack development and applied AI. My volunteer and leadership roles in summer camps, school clubs, and sponsored hackathons have strengthened my teamwork, communication, and problem-solving abilities.
-
-Since fall 2025, I have been working at Bravella Health as a Data Science & AI Development Intern on an eight-month term. In this role, I contribute to the development of their clinical LLM platform, built with Angular, Flask, and a RAG pipeline, while designing cloud-scalable deployment solutions on AWS and collaborating with my team on high-impact projects. This experience has allowed me to continue growing both technically and professionally.
+- 🎓 Computer Science Student @ Ontario Tech University
+- 🤖 Data Science & AI Development Intern @ Bravella Health
+- 📱 Mobile Development: Built and shipped an award-winning Android app at MY Voice Canada 
+- 🌐 Web Development: Designed and developed a responsive portfolio and various other web projects
+- 🤝 Volunteer and leadership experience through summer camps, school clubs, and hackathons 
+- 📚 Continuously building my skill set through certifications in full-stack development, applied AI and languages
 
 
 ## 🚀 Featured Tech Stack 
@@ -51,7 +54,7 @@ Since fall 2025, I have been working at Bravella Health as a Data Science & AI D
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my portfolio
+> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my 🔗 **[Personal Portfolio Website](https://rayan-alam-uoit.github.io/)**
 
 ## 📫 Connect With Me 
 

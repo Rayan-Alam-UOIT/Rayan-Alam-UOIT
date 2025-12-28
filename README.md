@@ -1,6 +1,6 @@
 <h1 align="left"><code>👋 Hey there, I'm Rayan!</code></h1>
 
-## 👤 About Me
+## 👨‍💻 About Me
 
 - Honours Computer Science Student @ Ontario Tech University (Sep 2023-Present)
 - Data Science & AI Development Intern @ Bravella Health (Sep 2025–Present)
@@ -49,12 +49,14 @@
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![Scikit](https://skillicons.dev/icons?i=scikitlearn)
 ![Redux](https://skillicons.dev/icons?i=redux)
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/10836697721d3f73b21c910861d4d6e2ed71d0d2/assets/pandas-auto.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/10836697721d3f73b21c910861d4d6e2ed71d0d2/assets/numpy-auto.svg" width="48" height="48" />
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my 🔗 **[Personal Portfolio Website](https://rayan-alam-uoit.github.io/)**
+> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my portfolio website
 
 ## 📫 Connect With Me 
 

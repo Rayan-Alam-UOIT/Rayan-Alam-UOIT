@@ -56,7 +56,7 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my portfolio website
+> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my personal portfolio website
 
 ## 📫 Connect With Me 
 

@@ -81,7 +81,7 @@
 </table>
 
 
-## 📈 GitHub Activity & Contribution Insights 
+## 📊 GitHub Activity & Contribution Insights 
 
 <table>
   <tr>

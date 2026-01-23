@@ -87,24 +87,24 @@
   <tr>
     <td>
       <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=tokyonight" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=nord_dark" height="200" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=tokyonight" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=nord_dark" height="200" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=tokyonight&utcOffset=-5" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=nord_dark&utcOffset=-5" height="200" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=tokyonight" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=nord_dark" height="200" />
       </a>
     </td>
   </tr>
@@ -115,7 +115,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=github&hide_border=true"
         width="100%"
         alt="Activity Graph"
       />

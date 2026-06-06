@@ -82,33 +82,32 @@
 
 
 ## 📊 GitHub Activity & Contribution Insights 
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=Rayan-Alam-UOIT&theme=github-dark&hide_border=true"
+        width="100%"
+        alt="Streak Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
     </td>
     <td>
-      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=github_dark&utcOffset=-5" height="200" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=github_dark&utcOffset=-5" height="200" />
     </td>
     <td>
-      <a href="https://github.com/Rayan-Alam-UOIT" target="_blank">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
     </td>
   </tr>
 </table>
+
 
 
 <table>

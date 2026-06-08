@@ -16,23 +16,17 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 ![Dart](https://skillicons.dev/icons?i=dart)
 
 ### Frameworks
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Django](https://skillicons.dev/icons?i=django)
 ![Flask](https://skillicons.dev/icons?i=flask)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Tools & Platforms
 ![AWS](https://skillicons.dev/icons?i=aws)
@@ -40,23 +34,17 @@
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
 ![Git](https://skillicons.dev/icons?i=git)
 
 ### Libraries & Databases
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![Scikit](https://skillicons.dev/icons?i=scikitlearn)
-![Redux](https://skillicons.dev/icons?i=redux)
 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/10836697721d3f73b21c910861d4d6e2ed71d0d2/assets/pandas-auto.svg" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/10836697721d3f73b21c910861d4d6e2ed71d0d2/assets/numpy-auto.svg" width="48" height="48" />
-![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-> ⚡ This is a snapshot of my core technologies — a more complete breakdown is available on my personal portfolio website
+> ⚡ For a more complete breakdown of everything I’ve worked on, visit my <a href="https://rayan-alam-uoit.github.io/" target="_blank">personal portfolio website</a>
 
 ## 📫 Connect With Me 
 
@@ -97,13 +85,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=tokyonight" height="200" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=github_dark&utcOffset=-5" height="200" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=tokyonight&utcOffset=-5" height="200" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=github_dark" height="200" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=tokyonight" height="200" />
     </td>
   </tr>
 </table>

@@ -4,10 +4,10 @@
 
 - Data Science & AI Development Intern @ Bravella Health (Sep 2025–Present)
 - Honours Computer Science Student @ Ontario Tech University (Sep 2023-Present)
+- Full-Stack Development: Designed and developed responsive web apps, including a portfolio and various technical projects
 - Mobile Development: Built and shipped an award-winning Android app at MY Voice Canada 
-- Web Development: Designed and developed responsive websites, including a portfolio and various other web projects
-- Exhibiting volunteer and leadership experience through summer camps, school clubs, and sponsored hackathons
-- Continuously building my skill set through official certifications in full-stack development, applied AI and languages
+- Leadership & Community: Volunteer and leadership experience through summer camps, student clubs, and sponsored hackathons
+- Continuously expanding my skill set through certifications in full-stack development, applied AI and programming languages
 
 
 ## 🚀 Featured Tech Stack 

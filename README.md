@@ -102,7 +102,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true"
+        src="https://github-readme-activity-graph-chi-jet.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true"
         width="100%"
         alt="Activity Graph"
       />

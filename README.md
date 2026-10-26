@@ -1,6 +1,6 @@
 <h1 align="left"><code>👋 Hey there, I'm Rayan!</code></h1>
 
-## 👨‍💻 About Me
+## About Me
 
 - Data Science & AI Development Intern @ Bravella Health (Sep 2025–Present)
 - Honours Computer Science Student @ Ontario Tech University (Sep 2023-Present)
@@ -10,7 +10,7 @@
 - Continuously expanding my skill set through certifications in full-stack development, applied AI and programming languages
 
 
-## 🚀 Featured Tech Stack 
+## Featured Tech Stack 
 
 ### Languages
 ![Python](https://skillicons.dev/icons?i=python)
@@ -46,7 +46,7 @@
 
 > ⚡ For a more complete breakdown of everything I’ve worked on, visit my <a href="https://rayan-alam-uoit.github.io/" target="_blank">personal portfolio website</a>
 
-## 📫 Connect With Me 
+## Connect With Me 
 
 <table>
   <tr>
@@ -69,46 +69,6 @@
 </table>
 
 
-## 📊 GitHub Activity & Contribution Insights 
-<table>
-  <tr>
-    <td align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=Rayan-Alam-UOIT&theme=github-dark&hide_border=true"
-        width="100%"
-        alt="Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Alam-UOIT&theme=tokyonight" height="200" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-Alam-UOIT&theme=tokyonight&utcOffset=-5" height="200" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Alam-UOIT&theme=tokyonight" height="200" />
-    </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-activity-graph-chi-jet.vercel.app/graph?username=Rayan-Alam-UOIT&theme=react-dark&hide_border=true"
-        width="100%"
-        alt="Activity Graph"
-      />
-    </td>
-  </tr>
-</table>
 
 
 <!---

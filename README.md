@@ -1,6 +1,6 @@
 <h1 align="left"><code>Hey there, I'm Rayan!</code></h1>
 
-> <img src="./bravella-transparent.svg" width="20" height="20" align="absmiddle" alt="Bravella Health" />  **Data Science & AI Development Intern @ Bravella Health** &nbsp;|&nbsp; <img src="./ontario-tech-transparent.svg" width="25" height="25" align="absmiddle" alt="Ontario Tech University" /> **Computer Science & Math Student @ Ontario Tech University**
+> <img src="./bravella-transparent.svg" width="20" height="20" align="absmiddle" alt="Bravella Health" />  **Data Science & AI Developer @ Bravella Health** &nbsp;|&nbsp; <img src="./ontario-tech-transparent.svg" width="25" height="25" align="absmiddle" alt="Ontario Tech University" /> **CS & Math Student @ Ontario Tech University**
 
 I build **full-stack applications**, from responsive web platforms to an award-winning Android app, with a growing focus on **LLMs, AI agents, and intelligent systems**. My co-op experience has shown me how technology can make a real-world impact, motivating me to develop solutions that solve meaningful problems.
 

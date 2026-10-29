@@ -1,72 +1,47 @@
-<h1 align="left"><code>👋 Hey there, I'm Rayan!</code></h1>
+<h1 align="left"><code>Hey there, I'm Rayan!</code></h1>
 
-## About Me
+> <img src="./bravella-transparent.svg" width="20" height="20" align="absmiddle" alt="Bravella Health" />  **Data Science & AI Development Intern @ Bravella Health** &nbsp;|&nbsp; <img src="./ontario-tech-transparent.svg" width="25" height="25" align="absmiddle" alt="Ontario Tech University" /> **Computer Science & Math Student @ Ontario Tech University**
 
-- Data Science & AI Development Intern @ Bravella Health (Sep 2025–Present)
-- Honours Computer Science Student @ Ontario Tech University (Sep 2023-Present)
-- Full-Stack Development: Designed and developed responsive web apps, including a portfolio and various technical projects
-- Mobile Development: Built and shipped an award-winning Android app at MY Voice Canada 
-- Leadership & Community: Volunteer and leadership experience through summer camps, student clubs, and sponsored hackathons
-- Continuously expanding my skill set through certifications in full-stack development, applied AI and programming languages
+I build **full-stack applications**, from responsive web platforms to an award-winning Android app, with a growing focus on **LLMs, AI agents, and intelligent systems**. My co-op experience has shown me how technology can make a real-world impact, motivating me to develop solutions that solve meaningful problems.
+
+Currently sharpening my problem-solving skills through **daily LeetCode practice**, expanding my technical expertise, and seeking new challenges through internships, certifications, and involvement in tech communities across the GTA.
 
 
-## Featured Tech Stack 
+**Feel free to reach out or connect!**
+
+<p align="left">
+  <a target="_blank href="https://www.linkedin.com/in/rayan-alam/" ><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
+  <a target="_blank href="mailto:alamrayan103@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
+  <a target="_blank href="https://rayan-alam-uoit.github.io/"><img src="https://skillicons.dev/icons?i=htmx" width="40" height="40" alt="Portfolio" /></a>
+</p>
+
+
+
+## Tech Stack & Tools
 
 ### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![Dart](https://skillicons.dev/icons?i=dart)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,java,dart)](https://skillicons.dev)
 
-### Frameworks
-![Angular](https://skillicons.dev/icons?i=angular)
-![React](https://skillicons.dev/icons?i=react)
-![Node](https://skillicons.dev/icons?i=nodejs)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
+### Frameworks & Runtime
+[![Frameworks](https://skillicons.dev/icons?i=angular,react,nodejs,flutter,django,flask)](https://skillicons.dev)
 
-### Tools & Platforms
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Git](https://skillicons.dev/icons?i=git)
+### Cloud & DevOps
+[![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git)](https://skillicons.dev)
 
-### Libraries & Databases
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit](https://skillicons.dev/icons?i=scikitlearn)
+### AI/ML & Databases
+[![Libraries](https://skillicons.dev/icons?i=pytorch,sklearn,mysql,sqlite)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/10836697721d3f73b21c910861d4d6e2ed71d0d2/assets/pandas-auto.svg" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/10836697721d3f73b21c910861d4d6e2ed71d0d2/assets/numpy-auto.svg" width="48" height="48" />
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-> ⚡ For a more complete breakdown of everything I’ve worked on, visit my <a href="https://rayan-alam-uoit.github.io/" target="_blank">personal portfolio website</a>
 
-## Connect With Me 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rayan-alam/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:alamrayan103@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="60" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://rayan-alam-uoit.github.io/" target="_blank">
-        <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="60" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=180&section=footer&text=//%20work%20in%20progress...&fontSize=23&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" width="100%" alt="Work in progress..." />
+</p>
+
+
+
 
 
 

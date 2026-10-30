@@ -10,9 +10,9 @@ Currently sharpening my problem-solving skills through **daily LeetCode practice
 **Feel free to reach out or connect!**
 
 <p align="left">
-  <a target="_blank href="https://www.linkedin.com/in/rayan-alam/" ><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
-  <a target="_blank href="mailto:alamrayan103@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
-  <a target="_blank href="https://rayan-alam-uoit.github.io/"><img src="https://skillicons.dev/icons?i=htmx" width="40" height="40" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rayan-alam/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:alamrayan103@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
+  <a href="https://rayan-alam-uoit.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" width="40" height="40" alt="Portfolio" /></a>
 </p>
 
 

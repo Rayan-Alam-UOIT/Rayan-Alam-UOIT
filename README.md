@@ -2,9 +2,9 @@
 
 > <img src="./bravella-transparent.svg" width="20" height="20" align="absmiddle" alt="Bravella Health" />  **Data Science & AI Developer @ Bravella Health** &nbsp;|&nbsp; <img src="./ontario-tech-transparent.svg" width="25" height="25" align="absmiddle" alt="Ontario Tech University" /> **CS & Math Student @ Ontario Tech University**
 
-I build **full-stack applications**, from responsive web platforms to an award-winning Android app, with a growing focus on **LLMs, AI agents, and intelligent systems**. My co-op experience has shown me how technology can make a real-world impact, motivating me to develop solutions that solve meaningful problems.
+I build **full-stack applications**, from responsive web platforms to an award-winning Android app, with a growing focus on **LLMs, AI agents, and intelligent systems**. My **co-op experience** has shown me how technology can make a real-world impact, motivating me to develop solutions that solve meaningful problems.
 
-Currently sharpening my problem-solving skills through **daily LeetCode practice**, expanding my technical expertise, and seeking new challenges through internships, certifications, and involvement in tech communities across the GTA.
+Currently sharpening my problem-solving skills through **daily LeetCode practice**, expanding my technical skill set and professional capabilities, and pursuing new challenges through **internships**, **certifications**, and involvement in **tech communities** across the GTA.
 
 
 **Feel free to reach out or connect!**

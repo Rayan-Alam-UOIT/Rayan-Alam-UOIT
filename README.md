@@ -17,7 +17,7 @@ Currently sharpening my problem-solving skills through **daily LeetCode practice
 
 
 
-## Tech Stack & Tools
+## Tech Stack
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,java,dart)](https://skillicons.dev)
